@@ -1,5 +1,5 @@
 ﻿body{
-    background-color: #2F2F2F;
+    background-color: #1F3F3F;
 	font-family: "Microsoft YaHei UI",BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, SimSun, "WenQuanYi Zen Hei Sharp", sans-serif;
     font-size: 13px;
 }
@@ -58,7 +58,7 @@
     background-color: #0D74FF;
 }
 .group-name {
-    height: 36px;
+    height: 32px;
     margin: 5px 0;
     line-height: 36px;
     float: left;
@@ -116,7 +116,7 @@
 .nav-panel-item-img{
     float: left;
     margin-top: 12px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 .nav-panel-item-txt {
