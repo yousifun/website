@@ -1,6 +1,6 @@
 ﻿body{
     background-color: #1F3F3F;
-	font-family: 'Microsoft YaHei UI',arial,sans-serif;
+	font-family: "Microsoft YaHei UI",BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, SimSun, "WenQuanYi Zen Hei Sharp", sans-serif;
     font-size: 13px;
 }
 
@@ -42,8 +42,9 @@
     height: 30px;
     overflow: hidden;
     text-align: center;
-    font-size: 13px;
-	font-weight: bold;
+	font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Liberation Sans", "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, SimSun, "WenQuanYi Zen Hei Sharp", sans-serif;
+	font-weight: 400;
+    font-size: 15px;
 	color: #fff;
     border: none;
     vertical-align: middle;
